@@ -1,7 +1,7 @@
 # AISAnomalyDetection-Latest-ForMTC-
 This folder contains the python code to clean raw AIS data in text file format and perform anomaly detection by classifying the vessels into normal, abnormal and power outage classes.
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Instructions to run the codes available in google colab<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Instructions to run the codes available in google colab<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 TryCleanAISdata.ipynb (Use to generate cleaned dataset from raw text files)
 - upload AIS raw data in text file format into a Google Drive folder
@@ -16,4 +16,4 @@ OR
 
 - Wait for the result
 - 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
